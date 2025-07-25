@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Interested in statistical analysis, data science/analytics, economics and any data/logistics usage.<br>✨ Hobbies: dance, watching anime, trading, and hanging out with my friends!<br>🎲 Fun fact: I have a 1k+ streak on BeReal</p>
+<p align="left">📚 Interested in statistical analysis, data science/analytics, economics and any data/logistics usage.<br>✨ Hobbies: dance, puzzles, anime, trading, and hanging out with my friends!<br>🎲 Fun fact: I have a 1k+ streak on BeReal</p>
 
 ###
 
