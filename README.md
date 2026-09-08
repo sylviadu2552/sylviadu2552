@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Interested in statistical analysis, data science/analytics, economics and any data/logistics usage.<br>🎲 Fun fact: I have a 1k+ streak on BeReal</p>
+<p align="left">📚 Interested in statistical analysis, data science/analytics, economics and any data/logistics usage.<br>🎲 Fun fact: I have a quarter from every state!</p>
 
 ###
 
