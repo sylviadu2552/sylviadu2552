@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sylvia and I'm a third year Statistics student at Cal Poly SLO!</p>
+<p align="left">My name is Sylvia and I'm a undergraduate Statistics student at Cal Poly SLO!</p>
 
 ###
 
